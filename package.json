@@ -94,7 +94,7 @@
     "clippyjs": "0.0.3",
     "core-js": "^3.0.1",
     "crypto-api": "^0.8.3",
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^3.2.1",
     "ctph.js": "0.0.5",
     "d3": "^4.9.1",
     "d3-hexbin": "^0.2.2",
